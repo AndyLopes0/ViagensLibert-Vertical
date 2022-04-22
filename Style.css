@@ -4,6 +4,10 @@
     --cor-letras: #ffff ;
 }
 
+*{
+text-decoration: none;
+}
+
 .sidebar ul{
     list-style-type: none;
     padding: 0%;
